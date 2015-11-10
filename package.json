@@ -1,0 +1,25 @@
+﻿{
+	"name": "simple-websocket-server",
+	"version": "0.0.1",
+	"author": " ",
+	"description": "a simple websocket server",
+	"main": "./example-server.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Lembed/simple-websocket-server"
+	},
+	"keywords": [
+		"websocket",
+		"websocket-server",
+	],
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.10"
+	},
+	"scripts": {
+		"test": ""
+	},
+	"dependencies": {
+		"websocket": "^0.5.0"
+	}
+}
