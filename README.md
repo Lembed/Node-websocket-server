@@ -1,8 +1,8 @@
 # simple-websocket-server
-a simple websocket server
+a simple nodejs websocket server
 
 
-# install:
+## install:
 
 ```javascript
 
@@ -11,7 +11,7 @@ a simple websocket server
 ```
 
 
-# run:
+## run:
 ```javascript
 
  node example-server.js
